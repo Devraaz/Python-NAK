@@ -1,0 +1,22 @@
+1. Write Python code to store your age in a variable called age.
+2. Identify the data type of each variable:
+    a = 5
+    b = 3.14
+    c = "Hello"
+    d = True
+
+3. Write Python code to store the following values:
+    Your name (as a string)
+    Your height in meters (as a float)
+    Your age (as an integer)
+    Whether you are a student (as a boolean)
+
+4. What will be the output and type of type("25")?
+
+5. Write a program that:
+    Takes a user's name and age as input
+    Prints: "Hello <name>, you are <age> years old."
+
+6. Ask the user if they like Python (Yes/No) and store it as a boolean (True if Yes, False if No).
+
+
